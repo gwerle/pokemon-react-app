@@ -4,7 +4,7 @@ import { BiSearchAlt } from "react-icons/bi";
 import * as S from "./styled";
 
 export type TextFieldProps = {
-  onInput?: (value: string) => void;
+  onInput?: (value: any) => void;
   label?: string;
   labelFor?: string;
   initialValue?: string;

@@ -12,5 +12,7 @@ async function getPokemonUnique(ctx: QueryFunctionContext) {
 }
 
 export default function usePokemon(pokemonUrl: string) {
-  return useQuery([pokemonUrl], getPokemonUnique);
+  return useQuery([pokemonUrl], getPokemonUnique, {
+    retry: 1,
+  });
 }
