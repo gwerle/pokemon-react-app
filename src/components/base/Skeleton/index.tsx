@@ -6,5 +6,7 @@ type Props = {
 };
 
 export default function Skeleton({ height, width }: Props) {
-  return <S.SkeletonContainer width={width} height={height} />;
+  return (
+    <S.SkeletonContainer width={width} height={height} data-testid="skeleton" />
+  );
 }

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Skeleton /> Renders without error 1`] = `
+<div>
+  <div
+    class="sc-beqWaB iuOWuC"
+    data-testid="skeleton"
+    height="100px"
+    width="100px"
+  />
+</div>
+`;
