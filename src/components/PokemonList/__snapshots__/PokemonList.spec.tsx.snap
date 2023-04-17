@@ -1,0 +1,1210 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PokemonList /> Renders without error 1`] = `
+<div>
+  <ul
+    class="sc-hLseeU iJEiVw"
+  >
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+    <li>
+      <div
+        class="sc-gueYoa emUOiO"
+      >
+        <div
+          class="sc-beqWaB iTdBVO"
+          data-testid="skeleton"
+          height="150px"
+          width="100%"
+        />
+        <div
+          class="sc-dmqHEX hZHgck"
+        >
+          <div>
+            <strong />
+          </div>
+          <div />
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+`;

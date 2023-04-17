@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Skeleton /> Renders without error 1`] = `
+exports[`<Card /> Renders without error 1`] = `
 <div>
   <div
     class="sc-gueYoa emUOiO"

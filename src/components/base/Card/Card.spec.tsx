@@ -4,7 +4,7 @@ import { renderWithTheme } from "@/utils/tests/renderWithTheme";
 
 import Card from ".";
 
-describe("<Skeleton />", () => {
+describe("<Card />", () => {
   it("Renders without error", () => {
     const { container } = renderWithTheme(
       <Card imgSrc="https://google.com" isLoading={false}>

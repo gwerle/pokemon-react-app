@@ -1,10 +1,16 @@
-import { HTMLInputTypeAttribute, InputHTMLAttributes, useState } from "react";
+import {
+  Dispatch,
+  HTMLInputTypeAttribute,
+  InputHTMLAttributes,
+  SetStateAction,
+  useState,
+} from "react";
 import { BiSearchAlt } from "react-icons/bi";
 
 import * as S from "./styled";
 
 export type TextFieldProps = {
-  onInput?: (value: any) => void;
+  onInput?: Dispatch<SetStateAction<string>>;
   label?: string;
   labelFor?: string;
   initialValue?: string;

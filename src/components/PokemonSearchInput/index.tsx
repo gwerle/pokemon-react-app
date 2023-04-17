@@ -21,7 +21,8 @@ export default function PokemonSearchInput({ setSearchValue }: Props) {
         label="Pesquise o nome do seu Pokémon favorito:"
         value={value}
         buttonType="submit"
-        onInput={setValue}
+        data-testid="pokemon-search"
+        onInput={setValue as never}
       />
     </form>
   );

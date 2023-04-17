@@ -173,3 +173,8 @@ export interface Type {
   slot: number;
   type: Species;
 }
+
+export interface FilterI {
+  name: string;
+  url: string;
+}

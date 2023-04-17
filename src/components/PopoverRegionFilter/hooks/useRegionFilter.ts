@@ -8,11 +8,12 @@ import {
 } from "react-hook-form";
 
 import instance from "@/configuration/axios";
+import { FilterI } from "@/types";
 
 type UseRegionFilter = {
-  regions: any[];
-  locations: any[];
-  areas: any[];
+  regions: FilterI[];
+  locations: FilterI[];
+  areas: FilterI[];
   register: UseFormRegister<FieldValues>;
   handleSubmit: UseFormHandleSubmit<FieldValues>;
   reset: UseFormReset<FieldValues>;
