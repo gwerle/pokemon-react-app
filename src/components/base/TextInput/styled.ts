@@ -15,7 +15,7 @@ export const InputWrapper = styled.div`
     border: 0.15rem solid;
     border-color: ${theme.colors.lightGray};
     &:focus-within {
-      box-shadow: 0 0 0.5rem ${theme.colors.lightGray};
+      box-shadow: 0 0 0.2rem ${theme.colors.lightGray};
     }
   `}
 `;
@@ -37,6 +37,7 @@ export const Label = styled.label`
   ${({ theme }) => css`
     font-size: ${theme.font.sizes.small};
     color: ${theme.colors.black};
+    text-align: left;
   `}
 `;
 
@@ -45,6 +46,11 @@ export const Error = styled.p`
     color: ${theme.colors.red};
     font-size: ${theme.font.sizes.xsmall};
   `}
+`;
+
+export const SearchButton = styled.button`
+  all: unset;
+  cursor: pointer;
 `;
 
 const wrapperModifiers = {

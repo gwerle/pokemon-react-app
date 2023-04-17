@@ -1,4 +1,5 @@
 import { HTMLInputTypeAttribute, InputHTMLAttributes, useState } from "react";
+import { BiSearchAlt } from "react-icons/bi";
 
 import * as S from "./styled";
 
@@ -10,6 +11,7 @@ export type TextFieldProps = {
   disabled?: boolean;
   error?: string;
   fieldType?: HTMLInputTypeAttribute;
+  buttonType?: "submit" | "button";
 } & InputHTMLAttributes<HTMLInputElement>;
 
 const TextInput = ({
@@ -20,6 +22,7 @@ const TextInput = ({
   disabled = false,
   error,
   fieldType = "text",
+  buttonType = "submit",
   ...props
 }: TextFieldProps) => {
   const [value, setValue] = useState(initialValue);
@@ -42,6 +45,9 @@ const TextInput = ({
           onChange={handleChange}
           {...props}
         />
+        <S.SearchButton type={buttonType}>
+          <BiSearchAlt size={"16px"} />
+        </S.SearchButton>
       </S.InputWrapper>
       {!!error && <S.Error>{error}</S.Error>}
     </S.Wrapper>
